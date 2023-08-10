@@ -1,0 +1,178 @@
+nav{
+    background-color: rgb(224, 216, 216);
+}
+#sec-2{
+    height: 740px;
+    background-image: url(images/bg-home.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+nav ul ul{
+    display: none;
+}
+nav #lis{
+    width: 400px;
+    display: block;
+    color: #c8c10d;
+    position: absolute;
+    left: -14px;
+    top: 20px ;
+}
+nav ul #a:hover{
+    color: #c8c10d;
+}
+nav ul ul #as{
+    color: #c8c10d;
+}
+nav ul li:hover{
+    position: relative;
+}
+nav ul li:hover > ul{
+    display: block;
+}
+nav ul ul a:hover{
+    color: #c8c10d;
+}
+
+.part1{
+    width: 15vw;
+    height: 10rem;
+    background-color: #c8c10d;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 67px;
+    right: 245px;
+}
+.part2{
+    width: 15vw;
+    height: 10rem;
+    background-color: rgb(214, 45, 102);
+    opacity: 0.8;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 50%;
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+}
+.part2 h2{
+    font-size: 2rem;
+    color: rgba(255, 255, 255,1);
+}
+#sec-3{
+    background-color: rgb(233, 229, 229);
+}
+h3{
+    color: rgb(187, 0, 62);
+}
+#cupcake{
+    width: 55px;
+    height: 55px;
+}
+#sec-4{
+    margin-top: -16px;
+
+    background-color: #c8c10d;
+}
+#row{
+    width: 80vw;
+}
+#sec-5{
+    margin-top: 0px;
+    background-color: #bb003e;
+}
+#row2{
+    width: 40vw;
+}
+#icon{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 8%;
+}
+#icons{
+    width: 25px;
+    height: 25px;
+}
+#sec-1-1{
+    text-align: center;
+    background-color: #c8c10d;
+    padding: 25px;
+}
+#sec-2-1{
+    height: 40vh;
+    background-image: url(images/bg-header-about.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#abut{
+    background-color: rgb(226, 224, 224);
+}
+#about a{
+    text-decoration: underline;
+}
+#about a:hover{
+    color: #c8c10d;
+}
+#sec-4-1{
+    width:98vw;
+    height: 150vh;
+}
+#row4{
+    width: 80vw;
+}
+#pr_ig{
+    width: 200px;
+}
+#img1{
+    width:70px; 
+    height:120px; 
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#blog{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(images/on-diet.png);
+}
+#blog1{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-image: url(images/new-chills.png);
+}
+#blog2{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-image: url(images/berries.png);
+}
+#button{
+    border-color: rgb(131, 127, 127);
+    color: rgb(131, 127, 127);
+}
+#button:hover{
+    border-color: #c8c10d;
+    background-color: #c8c10d;
+    color: white;
+}
+#sec-2-2{
+    height: 45vh;
+    background-image: url(images/map.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+#sec-3-1{
+    padding: 15px;
+    background-color: white;
+}
+input{
+    width: 39vw;
+    height: 40px;
+}
+textarea{
+    width: 39vw;
+}
